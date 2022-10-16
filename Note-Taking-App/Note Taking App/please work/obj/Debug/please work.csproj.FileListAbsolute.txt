@@ -1,0 +1,11 @@
+C:\Users\aIamew\Desktop\projects\Learning C#\Notes\please work\please work\bin\Debug\please work.exe.config
+C:\Users\aIamew\Desktop\projects\Learning C#\Notes\please work\please work\bin\Debug\please work.exe
+C:\Users\aIamew\Desktop\projects\Learning C#\Notes\please work\please work\bin\Debug\please work.pdb
+C:\Users\aIamew\Desktop\projects\Learning C#\Notes\please work\please work\obj\Debug\please work.csproj.AssemblyReference.cache
+C:\Users\aIamew\Desktop\projects\Learning C#\Notes\please work\please work\obj\Debug\please work.csproj.SuggestedBindingRedirects.cache
+C:\Users\aIamew\Desktop\projects\Learning C#\Notes\please work\please work\obj\Debug\please_work.Form1.resources
+C:\Users\aIamew\Desktop\projects\Learning C#\Notes\please work\please work\obj\Debug\please_work.Properties.Resources.resources
+C:\Users\aIamew\Desktop\projects\Learning C#\Notes\please work\please work\obj\Debug\please work.csproj.GenerateResource.cache
+C:\Users\aIamew\Desktop\projects\Learning C#\Notes\please work\please work\obj\Debug\please work.csproj.CoreCompileInputs.cache
+C:\Users\aIamew\Desktop\projects\Learning C#\Notes\please work\please work\obj\Debug\please work.exe
+C:\Users\aIamew\Desktop\projects\Learning C#\Notes\please work\please work\obj\Debug\please work.pdb

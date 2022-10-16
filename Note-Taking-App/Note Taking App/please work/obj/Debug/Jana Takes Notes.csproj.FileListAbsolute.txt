@@ -1,0 +1,30 @@
+C:\Users\aIamew\Desktop\projects\Learning C#\Notes\please work\please work\bin\Debug\please work.exe.config
+C:\Users\aIamew\Desktop\projects\Learning C#\Notes\please work\please work\bin\Debug\please work.exe.manifest
+C:\Users\aIamew\Desktop\projects\Learning C#\Notes\please work\please work\bin\Debug\please work.application
+C:\Users\aIamew\Desktop\projects\Learning C#\Notes\please work\please work\bin\Debug\please work.exe
+C:\Users\aIamew\Desktop\projects\Learning C#\Notes\please work\please work\bin\Debug\please work.pdb
+C:\Users\aIamew\Desktop\projects\Learning C#\Notes\please work\please work\obj\Debug\Jana Takes Notes.csproj.AssemblyReference.cache
+C:\Users\aIamew\Desktop\projects\Learning C#\Notes\please work\please work\obj\Debug\Jana Takes Notes.csproj.SuggestedBindingRedirects.cache
+C:\Users\aIamew\Desktop\projects\Learning C#\Notes\please work\please work\obj\Debug\please_work.Form1.resources
+C:\Users\aIamew\Desktop\projects\Learning C#\Notes\please work\please work\obj\Debug\please_work.Properties.Resources.resources
+C:\Users\aIamew\Desktop\projects\Learning C#\Notes\please work\please work\obj\Debug\Jana Takes Notes.csproj.GenerateResource.cache
+C:\Users\aIamew\Desktop\projects\Learning C#\Notes\please work\please work\obj\Debug\Jana Takes Notes.csproj.CoreCompileInputs.cache
+C:\Users\aIamew\Desktop\projects\Learning C#\Notes\please work\please work\obj\Debug\please work.exe.manifest
+C:\Users\aIamew\Desktop\projects\Learning C#\Notes\please work\please work\obj\Debug\please work.application
+C:\Users\aIamew\Desktop\projects\Learning C#\Notes\please work\please work\obj\Debug\please work.exe
+C:\Users\aIamew\Desktop\projects\Learning C#\Notes\please work\please work\obj\Debug\please work.pdb
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Note-Taking-App\Note Taking App\please work\bin\Debug\please work.exe.config
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Note-Taking-App\Note Taking App\please work\bin\Debug\please work.exe.manifest
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Note-Taking-App\Note Taking App\please work\bin\Debug\please work.application
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Note-Taking-App\Note Taking App\please work\bin\Debug\please work.exe
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Note-Taking-App\Note Taking App\please work\bin\Debug\please work.pdb
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Note-Taking-App\Note Taking App\please work\obj\Debug\Jana Takes Notes.csproj.AssemblyReference.cache
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Note-Taking-App\Note Taking App\please work\obj\Debug\Jana Takes Notes.csproj.SuggestedBindingRedirects.cache
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Note-Taking-App\Note Taking App\please work\obj\Debug\please_work.Form1.resources
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Note-Taking-App\Note Taking App\please work\obj\Debug\please_work.Properties.Resources.resources
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Note-Taking-App\Note Taking App\please work\obj\Debug\Jana Takes Notes.csproj.GenerateResource.cache
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Note-Taking-App\Note Taking App\please work\obj\Debug\Jana Takes Notes.csproj.CoreCompileInputs.cache
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Note-Taking-App\Note Taking App\please work\obj\Debug\please work.exe.manifest
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Note-Taking-App\Note Taking App\please work\obj\Debug\please work.application
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Note-Taking-App\Note Taking App\please work\obj\Debug\please work.exe
+C:\Users\aIamew\Desktop\MY PROJECTS\Learning C#\Note-Taking-App\Note Taking App\please work\obj\Debug\please work.pdb
